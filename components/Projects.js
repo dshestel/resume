@@ -21,8 +21,22 @@ function Projects() {
                         <div className="bg-white p-6 rounded-lg shadow-md">
                             <h3 className="text-xl font-bold text-gray-900 mb-4">Notable Titles</h3>
                             <ul className="list-disc list-inside text-gray-700">
-                                <li>Tanks A Lot! (High Core Games)</li>
-                                <li>Stealth Master (High Core Games)</li>
+                                <li>
+                                    <a href="https://play.google.com/store/apps/details?id=com.idspe.tanks2&hl=en"
+                                       target="_blank"
+                                       rel="noopener noreferrer"
+                                       className="text-indigo-600 hover:text-indigo-800">
+                                        Tanks A Lot!
+                                    </a> (High Core Games)
+                                </li>
+                                <li>
+                                    <a href="https://play.google.com/store/apps/details?id=com.stealthgame.master&hl=en"
+                                       target="_blank"
+                                       rel="noopener noreferrer"
+                                       className="text-indigo-600 hover:text-indigo-800">
+                                        Stealth Master
+                                    </a> (High Core Games)
+                                </li>
                             </ul>
                         </div>
 
