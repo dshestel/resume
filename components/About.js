@@ -8,7 +8,7 @@ function About() {
                         Experienced CTO, Unity Team Lead, and Backend Developer with over 8 years of expertise in game 
                         development, mobile applications, and Web3 technologies. Skilled in leading technical teams, 
                         designing scalable architectures, and delivering high-quality gaming and blockchain-integrated 
-                        products. Strong background in Unity (mobile, WebGL), backend development with Python, and 
+                        products. Strong background in Unity (mobile, WebGL), backend development with Python and 
                         blockchain systems. Adept at aligning technical solutions with business goals and driving full 
                         product lifecycle from prototype to live operations.
                     </p>

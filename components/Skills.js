@@ -3,14 +3,12 @@ function Skills() {
         const skills = [
             "Unity Engine (Mobile, WebGL)",
             "C# and Unity Systems Architecture",
-            "Python Backend Development (FastAPI, Django)",
-            "Web3 Integration (Blockchain, Smart Contracts, NFTs)",
             "Team Leadership & Mentorship",
             "Game Architecture & Systems Design",
-            "Free-to-Play Mobile Development and LiveOps",
-            "Backend Infrastructure for Games",
+            "Mobile Game Development and LiveOps",
             "Optimization & Performance Tuning",
-            "Version Control (Git, Plastic SCM)"
+            "Web3 Integration (Blockchain, Smart Contracts, NFTs)",
+            "Python Backend Development (FastAPI, Django)"
         ];
 
         return (
