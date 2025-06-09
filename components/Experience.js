@@ -7,10 +7,15 @@ function Experience() {
                 period: "2021 – Present",
                 responsibilities: [
                     "Led the technical direction of the studio, overseeing mobile game and WebGL project development",
+                    "Managed a cross-functional team of 5–8 specialists including Unity developers, artists",
                     "Independently developed and launched multiple successful games since 2024",
+                    "Defined and tracked KPIs such as DAU, retention, CPI, and server uptime",
                     "Designed and implemented backend services in Python for games and internal tools",
+                    "Built CI/CD pipelines using GitHub Actions for automated deployment",
+                    "Planned and managed product roadmap in collaboration with co-founders",
+                    "Organized hiring and onboarding process for engineering team",
                     "Integrated blockchain technologies (Web3) into gaming ecosystems",
-                    "Managed a development team, handled technical planning, code reviews, and mentoring"
+                    "Managed team rituals (standups, sprint planning), conducted code reviews, and mentored junior staff"
                 ]
             },
             {

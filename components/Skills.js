@@ -8,7 +8,9 @@ function Skills() {
             "Mobile Game Development and LiveOps",
             "Optimization & Performance Tuning",
             "Web3 Integration (Blockchain, Smart Contracts, NFTs)",
-            "Python Backend Development (FastAPI, Django)"
+            "Python Backend Development",
+            "CI/CD (GitHub Actions)",
+            "Project Roadmapping & Hiring",
         ];
 
         return (
