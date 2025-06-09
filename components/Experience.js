@@ -9,7 +9,7 @@ function Experience() {
                     "Led the technical direction of the studio, overseeing mobile game and WebGL project development",
                     "Managed a cross-functional team of 5–8 specialists including Unity developers, artists",
                     "Independently developed and launched multiple successful games since 2024",
-                    "Defined and tracked KPIs such as DAU, retention, CPI, and server uptime",
+                    "Defined and tracked KPIs such as DAU, retention, CPI",
                     "Designed and implemented backend services in Python for games and internal tools",
                     "Built CI/CD pipelines using GitHub Actions for automated deployment",
                     "Planned and managed product roadmap in collaboration with co-founders",
