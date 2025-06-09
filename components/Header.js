@@ -24,7 +24,7 @@ function Header() {
                                className="text-gray-600 hover:text-indigo-600 transition-colors">
                                 <i className="fab fa-linkedin text-2xl"></i>
                             </a>
-                            <a href="https://linktr.ee/jungle_tavern" 
+                            <a href="https://t.me/dshestel" 
                                target="_blank" 
                                rel="noopener noreferrer"
                                className="text-gray-600 hover:text-indigo-600 transition-colors">
