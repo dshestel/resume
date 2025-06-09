@@ -6,19 +6,6 @@ function Projects() {
                     <h2 className="section-title">Projects</h2>
                     <div data-name="projects-content" className="space-y-8">
                         <div className="bg-white p-6 rounded-lg shadow-md">
-                            <h3 className="text-xl font-bold text-gray-900 mb-4">Jungle Tavern Projects</h3>
-                            <p className="text-gray-700 mb-4">
-                                Portfolio Link: <a href="https://linktr.ee/jungle_tavern" 
-                                                 className="text-indigo-600 hover:text-indigo-800"
-                                                 target="_blank" 
-                                                 rel="noopener noreferrer">
-                                    https://linktr.ee/jungle_tavern
-                                </a>
-                            </p>
-                            <p className="text-gray-700 mb-4">CTO and Team Lead roles; full solo development for projects since 2024.</p>
-                        </div>
-
-                        <div className="bg-white p-6 rounded-lg shadow-md">
                             <h3 className="text-xl font-bold text-gray-900 mb-4">Notable Titles</h3>
                             <ul className="list-disc list-inside text-gray-700">
                                 <li>
@@ -36,6 +23,22 @@ function Projects() {
                                        className="text-indigo-600 hover:text-indigo-800">
                                         Stealth Master
                                     </a> (High Core Games)
+                                </li>
+                                <li>
+                                    <a href="https://play.google.com/store/apps/details?id=com.JungleTavern.minemaster"
+                                       target="_blank"
+                                       rel="noopener noreferrer"
+                                       className="text-indigo-600 hover:text-indigo-800">
+                                        Build Brigade: Mighty Machines
+                                    </a> (Jungle Tavern)
+                                </li>
+                                <li>
+                                    <a href="https://t.me/richie_mayor_bot"
+                                       target="_blank"
+                                       rel="noopener noreferrer"
+                                       className="text-indigo-600 hover:text-indigo-800">
+                                        Richie - Metapolis Mayor
+                                    </a> (Jungle Tavern)
                                 </li>
                             </ul>
                         </div>
